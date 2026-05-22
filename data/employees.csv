@@ -1,6 +1,6 @@
-id,name,department,salary,age
-1,Alice,IT,70000,25
-2,Bob,HR,50000,30
-3,Charlie,IT,90000,35
-4,David,Finance,60000,28
-5,Eva,HR,55000,32
+emp_id,name,dept_id,salary,age
+1,Alice,101,70000,25
+2,Bob,102,50000,30
+3,Charlie,101,90000,35
+4,David,103,60000,28
+5,Eva,104,55000,32
